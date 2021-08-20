@@ -1,9 +1,6 @@
-
 # frida_termux
 
-## 需求: 
-
-    不依赖pc, 让frida hook操作在手机上实现.
+## 需求: 不依赖pc, 让frida hook操作在手机上实现.
 
 ## 环境: Pixel 8.1, ubantu 18.04 LTS, termux(一款app, 模拟linux系统, 就相当于一台linux主机) 已上传termux.该app版本需要 Android 7.0 及以上版本。 
 
